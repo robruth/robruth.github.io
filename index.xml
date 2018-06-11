@@ -6,10 +6,19 @@
     <description>Recent content on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 May 2018 11:09:50 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 30 May 2018 11:44:02 -0700</lastBuildDate>
     
 	<atom:link href="https://robruth.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://robruth.github.io/about/</link>
+      <pubDate>Wed, 30 May 2018 11:44:02 -0700</pubDate>
+      
+      <guid>https://robruth.github.io/about/</guid>
+      <description>about me</description>
+    </item>
     
     <item>
       <title>Upboard test</title>
