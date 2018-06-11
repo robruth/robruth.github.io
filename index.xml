@@ -17,8 +17,9 @@
       <pubDate>Mon, 11 Jun 2018 02:38:12 +0000</pubDate>
       
       <guid>https://robruth.github.io/posts/forestry-test/</guid>
-      <description>Test 1 2 3
-test ls -la grep  </description>
+      <description>Test 123
+test
+#!/bin/bash grep ls -la bash  test</description>
     </item>
     
     <item>
