@@ -6,10 +6,20 @@
     <description>Recent content on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 May 2018 11:44:02 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jun 2018 02:38:12 +0000</lastBuildDate>
     
 	<atom:link href="https://robruth.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Forestry Test</title>
+      <link>https://robruth.github.io/posts/forestry-test/</link>
+      <pubDate>Mon, 11 Jun 2018 02:38:12 +0000</pubDate>
+      
+      <guid>https://robruth.github.io/posts/forestry-test/</guid>
+      <description>Tets 1 2 3
+ls -la find / -name rob*  </description>
+    </item>
     
     <item>
       <title>About</title>
