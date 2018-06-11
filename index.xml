@@ -19,11 +19,6 @@
       <guid>https://robruth.github.io/posts/forestry-test/</guid>
       <description>Test 123
 test
-~~~bash
-ls -la
-grep *
-cat test
-~~~
 test</description>
     </item>
     
