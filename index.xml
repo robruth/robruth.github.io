@@ -18,7 +18,7 @@
       
       <guid>https://robruth.github.io/posts/forestry-test/</guid>
       <description>Test 1 2 3
-ls -la find / -name rob* grep -r rob *  </description>
+test ls -la grep  </description>
     </item>
     
     <item>
