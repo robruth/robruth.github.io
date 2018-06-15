@@ -6,19 +6,10 @@
     <description>Recent content in Posts on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Jun 2018 02:38:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 May 2018 11:09:50 -0700</lastBuildDate>
     
 	<atom:link href="https://robruth.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Forestry Post</title>
-      <link>https://robruth.github.io/posts/forestry-test/</link>
-      <pubDate>Mon, 11 Jun 2018 02:38:12 +0000</pubDate>
-      
-      <guid>https://robruth.github.io/posts/forestry-test/</guid>
-      <description>#!/bin/bash  export NIC=ens37 export IPADDR=`ip addr show $NIC | grep &amp;#34;inet &amp;#34; | sed &amp;#39;s/^[ \t]*//g&amp;#39; | sed &amp;#39;s/[ \t]\+/ /g&amp;#39; | cut -d&amp;#39; &amp;#39; -f 2 | cut -d&amp;#39;/&amp;#39; -f 1` ## install depedencies yum update &amp;amp;&amp;amp; \ yum install git bind dhcp xinetd fence-agents debmirror syslinux &amp;amp;&amp;amp; \ yum install $(repoquery --requires cobbler) ## enable tftpd sed -i -e &amp;#39;s/= yes/= no/&amp;#39; /etc/xinetd.d/tftp ## build / install cobbler from source git clone https://github.</description>
-    </item>
     
     <item>
       <title>Manual Post</title>
