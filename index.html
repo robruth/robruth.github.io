@@ -67,7 +67,7 @@ test
   
 </div><div class="post">
   <h1 class="post-title">
-    <a href="https://robruth.github.io/posts/my-first-post/">Upboard test</a>
+    <a href="https://robruth.github.io/posts/my-first-post/">Manual Post</a>
   </h1>
   <span class="post-date">Wed, May 30, 2018</span>
   #!/bin/bash  export NIC=ens37 export IPADDR=`ip addr show $NIC | grep &#34;inet &#34; | sed &#39;s/^[ \t]*//g&#39; | sed &#39;s/[ \t]\+/ /g&#39; | cut -d&#39; &#39; -f 2 | cut -d&#39;/&#39; -f 1` ## install depedencies yum update &amp;&amp; \ yum install git bind dhcp xinetd fence-agents debmirror syslinux &amp;&amp; \ yum install $(repoquery --requires cobbler) ## enable tftpd sed -i -e &#39;s/= yes/= no/&#39; /etc/xinetd.d/tftp ## build / install cobbler from source git clone https://github.
